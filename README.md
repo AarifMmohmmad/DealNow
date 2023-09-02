@@ -1,2 +1,2 @@
-# DellNow
-Buying products with Arif is even easy
+# DealNow
+Buying products with DealNow is even easy
